@@ -61,7 +61,7 @@ class _HomeScreenState extends State<HomeScreen> {
         // Background Image
         SizedBox.expand(
           child: Image.asset(
-            'assets/background.jpg',
+            'assets/b8cbfd125683891.611e1530de4b6.jpg',
             fit: BoxFit.cover,
             colorBlendMode: BlendMode.darken,
           ),
