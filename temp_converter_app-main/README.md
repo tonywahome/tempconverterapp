@@ -1,6 +1,6 @@
 # Temperature Converter App
 
-![App Screenshot](assets/temp_convertoer.jpeg)
+![App Screenshot](assets/b8cbfd125683891.611e1530de4b6.jpg)
 
 A simple yet powerful temperature conversion tool that allows users to convert between Celsius and Fahrenheit scales with ease.
 
